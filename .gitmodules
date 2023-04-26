@@ -9,7 +9,7 @@
 	url = https://github.com/pybind/pybind11
 [submodule "torch-mlir"]
 	path = torch-mlir
-	url = https://github.com/jungmair/torch-mlir.git
+	url = https://github.com/lingo-db/torch-mlir.git
 [submodule "llvm-project/"]
 	url = https://github.com/lingo-db/llvm-project.git
 [submodule "torch-mlir/"]
